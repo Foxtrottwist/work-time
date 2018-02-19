@@ -13,8 +13,9 @@ const WatchFaceBox = styled.div`
   text-align: center;
 `;
 
-const Digits = styled.text`
-  font-size: 3rem;
+const Digits = styled.span`
+  font-size: 3.3rem;
+  font-weight: 600;
   text-align: center;
   line-height: 15rem;
   color: gray;
