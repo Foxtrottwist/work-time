@@ -7,7 +7,7 @@ type Query {
 }
 type Timer {
     title: String,
-    duration: Int
+    duration: Float
 }
 `;
 
